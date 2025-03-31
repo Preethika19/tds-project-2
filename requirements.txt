@@ -1,0 +1,17 @@
+fastapi
+pydantic
+numpy
+bs4
+metaphone
+oauth2client
+pillow
+feedparser
+gspread
+httpx
+markdownify
+pandas
+pdfplumber
+requests
+tiktoken
+uvicorn
+python-multipart
